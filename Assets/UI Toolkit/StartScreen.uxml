@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; align-self: auto; justify-content: space-around; align-items: center; background-color: rgba(0, 0, 0, 0.71); flex-shrink: 0;">
+        <ui:Label tabindex="-1" text="Нумыр" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 40px; -unity-font: url(&apos;project://database/Assets/Fonts/Miratrix-Normal.otf?fileID=12800000&amp;guid=8b467b5568b7a4aff9c491be47b755ad&amp;type=3#Miratrix-Normal&apos;); -unity-font-definition: initial; color: rgb(255, 200, 0);" />
+        <ui:Button text="Кутсконо" parse-escape-sequences="true" display-tooltip-when-elided="true" name="StartButton" style="-unity-font: url(&apos;project://database/Assets/Fonts/Miratrix-Normal.otf?fileID=12800000&amp;guid=8b467b5568b7a4aff9c491be47b755ad&amp;type=3#Miratrix-Normal&apos;); -unity-font-definition: initial; font-size: 15px; background-color: rgb(255, 97, 97); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;" />
+    </ui:VisualElement>
+</ui:UXML>
